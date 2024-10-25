@@ -10,6 +10,8 @@ Após uma pesquisa dentro do primeiro bimestre selecionamos o Zabbix como nosso 
 
 # TO-DO
 
-[ ] Implementar o Zabbix
+[X] Implementar o Zabbix
+
 [ ] Fazer o Zabbix funcionar em ip publico
+
 [ ] 
