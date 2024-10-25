@@ -14,4 +14,8 @@ Após uma pesquisa dentro do primeiro bimestre selecionamos o Zabbix como nosso 
 
 [ ] Fazer o Zabbix funcionar em ip publico
 
-[ ] 
+[ ] Criar o HTML (Graffana do Paraguai)
+
+[ ] Fazer a apresentação via HTML
+
+[ ] Fazer a parte escrita
